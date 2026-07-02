@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My 3D Printing Business</title>
+</head>
+<body>
+    <h1>Welcome to My 3D Printing Business</h1>
+    <p>Custom 3D printing services and products.</p>
+
+    <h2>Services</h2>
+    <ul>
+        <li>Custom Prints</li>
+        <li>Prototype Parts</li>
+        <li>Cosplay Props</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: your@email.com</p>
+</body>
+</html>
